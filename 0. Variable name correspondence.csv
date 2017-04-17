@@ -1,0 +1,34 @@
+VarID,Original name,Adapted name
+0,,ID
+1,Company Name,Name
+2,Date of Incorporation,Date_incorp
+3,NAICS Industry Group Code,NAICS
+4,GICS Industry Group Code,GICS
+5,SEDOL,SEDOL
+6,ISIN,ISIN
+7,CUSIP,CUSIP
+8,Country ISO Code of Headquarters,ISO_HQ
+9,Country ISO Code of Incorporation,ISO_Incorp
+10,Date,Prc_date
+11,Price Close,Prc
+12,Issue Default Shares Outstanding,Shrout_default
+15,Total Common Shares Outstanding,Shrout_C
+16,Total Preferred Shares Outstanding,Shrout_PS
+17,Total Debt,TD
+18,"Common Stock, Total",CEQ
+19,"Redeemable Preferred Stock, Total",PSTKR
+20,"Property/Plant/Equipment, Total - Net",PPENT
+21,Cash and Short Term Investments,CHE
+22,Depreciation / Depletion,DP
+23,Net Sales,Sale
+24,52 Week Total Return,Ret_52week
+25,Income Statement Period End Date,Date_incorp
+26,"Accumulated Depreciation, Total",DPACT
+27,Net Income Before Extraordinary Items,IB
+28,Income Tax - Total,TXT
+29,Normalized Income Avail to Cmn Shareholders,IBCOM
+30,Deferred Income Tax - LT Liability,TXDITC_LT
+31,Deferred Income Tax - Current Liability,TXDITC_ST
+32,Preferred Stock - Non Redeemable,PSTKN
+33,Interest Expense,XINT
+34,"Total Assets, Reported",AT
